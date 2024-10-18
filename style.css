@@ -166,6 +166,9 @@ body {
         position: sticky;
         left: 50px;
         opacity: 0.9;
+        display:flex;
+        align-items: center;
+        justify-content: flex-end;
     }
     h1{
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -175,6 +178,9 @@ body {
         position: sticky;
         left: 50px;
         opacity: 0.9;
+         display:flex;
+        align-items: center;
+        justify-content: center
     
         margin: 10px;
         padding: 50px;
@@ -186,6 +192,9 @@ body {
         position: relative;
         left: 50px;
         opacity: 0.9;
+        display:flex;
+        align-items: center;
+        justify-content: center
         font-size: 22px;
         text-transform:none;
         text-decoration: underline;
@@ -200,6 +209,6 @@ body {
         text-transform:none;
         position: relative;
         left: 50px;
-        opacity: 0.9;
+        opacity: 0.9;;
     }
     
